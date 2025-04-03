@@ -1,4 +1,4 @@
-# DuckCoal
+# DuckyCoal
 A versatile mod for hypixel skyblock (mainly coal mining)! It contains various QOL features to improve your experience and make more money.
 With a maxed setup you can get around 65m to 70m per hour easily asumming ecoal bazaar prices > 1.5k
 
